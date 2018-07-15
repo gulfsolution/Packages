@@ -1,0 +1,6 @@
+
+
+1 Package deployment
+2 Update leave scheme in Leave Rules
+3 Deletion from backdate tables
+4 Check Leave Detail Report
